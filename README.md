@@ -1,3 +1,17 @@
+# Book Crossing Application
+
+## Introduction
+
+Book Crossing is an online platform that allows users to exchange books with others. The application is built using Next.js for the front-end, MongoDB for the backend, and Tailwind CSS for styling. 
+
+## Features
+
+1. User Authentication
+2. Book Listing
+3. Book Exchange
+4. Favorite Books
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
