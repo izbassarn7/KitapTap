@@ -135,7 +135,7 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [https://example.com]([https://github-production-user-asset-6210df.s3.amazonaws.com/79467341/242455326-f78cd75a-f97f-4a43-a3eb-03b26df3bbfa.png])
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
@@ -251,7 +251,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github-production-user-asset-6210df.s3.amazonaws.com/79467341/242455326-f78cd75a-f97f-4a43-a3eb-03b26df3bbfa.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
